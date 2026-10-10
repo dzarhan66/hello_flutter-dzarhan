@@ -30,7 +30,7 @@ class ProfileCardPage extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         const Text(
-          'Muhammad Idhhar Farhan',
+          'Muhammad Idhhar Farhan (TEST)',
           style: TextStyle(
             fontSize: 22,
             fontWeight: FontWeight.bold,
